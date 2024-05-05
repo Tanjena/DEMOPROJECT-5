@@ -1,0 +1,18 @@
+:root{
+	background-color: lightsalmon;
+}
+*{
+	color: black;
+}
+h2 {
+	padding: 10px;
+	text-align: center;
+	color: white;
+	background-color: green;
+	font-family: sans-serif;
+}
+p {
+	font-size: 18px;
+	font-family: Georgia, serif;
+	text-transform: lowercase;
+}
